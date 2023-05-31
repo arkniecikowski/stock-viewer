@@ -1,0 +1,32 @@
+.search-box-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:2%;
+}
+
+.search-box-input {
+    border: 3px solid #00C805;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+}
+
+.search-box-input:focus{
+    color: #00C805;
+  }
+
+.search-box-button {
+    width: 100fr;
+    height: 100fr;
+    border: 1px solid #00C805;
+    background: #00C805;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+}

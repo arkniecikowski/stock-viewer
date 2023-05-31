@@ -1,0 +1,18 @@
+.container-period { 
+    display: flex;
+    justify-content: center ;
+    text-align: center;
+}
+
+.button {
+    width: 100fr;
+    height: 100fr;
+    border: 1px solid #00C805;
+    background: #00C805;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px; 
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0 20px;
+}
